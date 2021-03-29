@@ -1,4 +1,4 @@
-### ✨Profile✨
+# ✨Profile✨
 세종대학교 데이터사이언스학과 19학번 노하늘입니다!
 
 ## ⚡Acitivity⚡
