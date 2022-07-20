@@ -14,6 +14,6 @@
 - 2021.07 ~ 2021.10 (주)이투온 인턴 (NIA 인공지능 학습용 데이터 구축 사업)
 - 2021.03 ~ 2021.12 세종대학교 데이터사이언스학과 5대 학생회장
 - 2021.05 ~ 2021.11 한국관광공사X카카오 2021 관광데이터 활용 공모전 장려상 (U SPOT)
-- 2022.02 ~ 유비온 금융 빅데이터 분석가 과정 3기
+- 2022.02 ~ 2022.07 유비온 금융 빅데이터 분석가 과정 3기
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fskynnn&count_bg=%23ED88A2&title_bg=%23969696&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
